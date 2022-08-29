@@ -24,7 +24,7 @@
 
 ### space-activity1
 
-* name: Ship Design
+* name: Ship Design 1
 * type: tutorial
 * description: Draw and code a spaceship!
 * tags: easy
