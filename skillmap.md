@@ -1,9 +1,9 @@
 # sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+* name: دليل صانع الألعاب
+* description: ارفع مستوى مهاراتك في صنع اللعبة من خلال استكمال الدروس في هذا الدليل.
 
 ## interface
-* name: Learn to use MakeCode Arcade
+* name: تعلم كيفية استخدام MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
@@ -18,15 +18,15 @@
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
-* name: Design a Space Explorer
-* description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
+* name: تصميم مستكشف الفضاء
+* description: دعنا نستكشف أعماق الفضاء! سنصمم سفينة للسفر عبر الفضاء ، ونضيف بعض الأعداء ، ونملأ الكون بالكواكب.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
 
 ### space-activity1
 
-* name: Ship Design 1
+* name: تصميم السفن
 * type: tutorial
-* description: Draw and code a spaceship!
+* description: ارسم وطور سفينة فضاء!
 * tags: easy
 * next: space-activity2
 
